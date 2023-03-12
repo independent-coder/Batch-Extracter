@@ -1,9 +1,9 @@
 # Batch-Extracter
-a code batch extract .zip
+A code batch gonna extract.Zip file
 
 
-with a litle interface
-it gonna check if the file is exist
+The code goes through a small interface.
+The code will check if the .zip exist
 
 
-you need to specify the name with the extension
+You need to specify the name with the extension
